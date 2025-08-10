@@ -1,3 +1,5 @@
+Public site: https://brand-voice-analyzer-4g7g161.public.builtwithrocket.new/analysis-results
+
 # React
 
 A modern React-based project utilizing the latest frontend technologies and tools for building responsive web applications.
